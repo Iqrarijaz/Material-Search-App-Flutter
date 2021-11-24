@@ -1,4 +1,4 @@
-# search_bar
+# Material Search App or Integrate it with Any App
 
 A new Flutter project.
 
